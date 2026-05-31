@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configcarse",
+        "uuid": 17043218,
+        "checksum": "6eglz"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
